@@ -1,3 +1,6 @@
+- 新しく自分で開発している日本語学習プラットフォーム：www.japanolearn.com ぜひみてみてください！
+
+
 - 👋 Hi, I’m @happygoluckycodeeditor
 - 👀 I’m interested in Japanese, Data-driven Social Science research・日本語・日本学が好きで、社会学と国際関係の研究にデータ分析プログラミングをやっています
 - 🌱 I’m currently learning Python and R programming langauge・PythonとRに興味を持っています
