@@ -10,7 +10,7 @@
 
 - Currently working on my opensource project called JapanoLearn!
 
-- ![image](https://github.com/user-attachments/assets/460b10c2-1ad3-452e-ad47-01d09dce0dbd)
+  ![image](https://github.com/user-attachments/assets/460b10c2-1ad3-452e-ad47-01d09dce0dbd)
 
 
 どうぞよろしくお願いします！
