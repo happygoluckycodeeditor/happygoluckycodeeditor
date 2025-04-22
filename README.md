@@ -1,5 +1,6 @@
 - 新しく自分で開発している日本語学習プラットフォーム：www.japanolearn.com ぜひみてみてください！
 - Check the opensource version here at https://github.com/happygoluckycodeeditor/japanolearn-opensource
+  Please contribute to this project!
 
 
 - 👋 Hi, I’m @happygoluckycodeeditor
