@@ -7,7 +7,6 @@
 - 👀 I’m interested in Japanese, Data-driven Social Science research and currently been working on making open source applications! 日本語・日本学が好きで、社会学と国際関係の研究にデータ分析プログラミングをやっています
 - 🌱 I’m currently learning Javascript/Google Cloud and basic concepts of System Engineering!
 - I am a Google Cloud Certified Professional Cloud Architect ([Check my credentials at Credly](https://www.credly.com/users/tanmay-bagwe))
-- 📝 I also like HMTL and CSS and hope to make my own website in the next upcoming months :D・たまにHTMLとCSSをやるのが好きです、今後自分のウェブサイトを作る予定です
 - 📫 How to reach me: email me at tanmay.bagwe.tb@gmail.com
 - 📱 I am also making my portfolio (Work in Progress) at happygoluckycodeeditor.github.io
 
