@@ -1,6 +1,6 @@
 - 新しく自分で開発している日本語学習プラットフォーム：app.japanolearn.com ぜひみてみてください！
 - Check the opensource version here at https://github.com/happygoluckycodeeditor/japanolearn-opensource
-  Please contribute to this project! Its a Free Japanese Learning application (Hoping to release alpha in Q2 of 2025)
+  Please contribute to this project! Its a Free Japanese Learning application (Hoping to release alpha in Q3 of 2025)
 
 
 - 👋 Hi, I’m @happygoluckycodeeditor
